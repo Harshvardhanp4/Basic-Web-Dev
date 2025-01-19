@@ -1,8 +1,28 @@
 h1{
-    color:green;
-
+    color: green;
 }
-
 p{
     color:blue;
+}
+
+button{
+    color:white;
+    background-color: black;
+}
+
+body{
+    background-color: #f7cc95;
+}
+
+*{
+     color: pink;/* remove all other to see this universal selector!  */
+}
+
+#headingone{
+    color: #9c57f7;
+    background-color: bisque;
+}   
+
+.myclass{
+    color: blue;
 }
