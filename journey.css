@@ -1,0 +1,18 @@
+*{
+    background-color: bisque;
+}
+
+
+#one{
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    border: 2px solid black;
+        color: black;
+        background-color: rgb(239, 197, 129);
+        padding-top: 10px;
+        padding: 10px 0px 10px 0px;
+}
+
+#two{
+        padding-left: 16px;
+}
